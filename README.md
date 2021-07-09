@@ -2,4 +2,5 @@
 
 **Reference: Mit 6.824 Lab 2: Raft**
 
-**Unfinished!!!!!!**
+**Unfinished now!!!!!!**
+
