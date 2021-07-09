@@ -4,11 +4,9 @@
 
 **Unfinished now!!!!!!**
 
-###############################################################
+
 
 **To ACM students: **
 
 ​	Please create your own **private** repo for your raft code and add my account to your visit list. 
-
-###############################################################
 
