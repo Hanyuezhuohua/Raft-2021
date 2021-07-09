@@ -18,7 +18,7 @@ package raft
 //
 
 import "sync"
-import "labrpc"
+import "Raft/labrpc"
 
 // import "bytes"
 // import "labgob"
