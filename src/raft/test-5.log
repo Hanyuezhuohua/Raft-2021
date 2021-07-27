@@ -1,0 +1,9 @@
+=== RUN   TestInitialElection2A
+Test (2A): initial election ...
+    config.go:326: expected one leader, got none
+--- FAIL: TestInitialElection2A (4.97s)
+=== RUN   TestReElection2A
+Test (2A): election after network failure ...
+    config.go:326: expected one leader, got none
+--- FAIL: TestReElection2A (5.00s)
+FAIL
